@@ -1,7 +1,7 @@
 
-Home page and its contain the main part of the project ,and has 
+Home page and its contain the main part of the project ,and has the navagation bar and the footer contain the link for the email address and when this webiste has been publish.
 
-![image](https://github.com/Afrah-tech/Yemen-history-/assets/171989492/7ef0ce26-ecad-4449-b24c-1f5ff482fd4f)
+![Home page ](https://github.com/Afrah-tech/Yemen-history-/assets/171989492/7ef0ce26-ecad-4449-b24c-1f5ff482fd4f)
 
 ![image](https://github.com/Afrah-tech/Yemen-history-/assets/171989492/cbe2c302-0737-439c-87ff-c78e7f5523c6)
 
@@ -26,11 +26,14 @@ contact us page,it has the information  in case the reader wants to know more ca
 This image give some hospitablity for the reader to follow us for more inforation  about Yemen .
 ![image](https://github.com/Afrah-tech/Yemen-history-/assets/171989492/11e714a0-27a3-4c0b-8b4f-63e49fff3662)
 
-After finshing the code , I checked it, and they showed no errors 
+After finishing the code HTML, I checked it, and they showed no errors 
 
 ![Validator ,Has no error, ](w3cssvalidation.png)
 
+
+After finshing the code CSS , I checked it, and they showed no errors 
 ![The W3C CSS Validation test  ](w3cssvalidation.png)
+
 ![test index.html](htmlvalidation.png)
 
 
