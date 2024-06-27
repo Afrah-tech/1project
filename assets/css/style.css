@@ -121,7 +121,7 @@ footer {
         gap: 10px;
     }
     .service-item {
-        padding: 10px; /* Less padding on smaller screen */
+        padding: 5px; /* Less padding on smaller screen */
     }
     main {
         width: 95%;
@@ -151,7 +151,7 @@ footer {
 
 #services {
     text-align: center;
-    margin-top: 120px;
+    margin-top:  px;
     /* Adjust for fixed header */
     padding: 20px;
 }
@@ -165,7 +165,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .service-box {
@@ -226,7 +226,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .service-box {
