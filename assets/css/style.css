@@ -27,7 +27,7 @@ header {
     justify-content: center;
     background: linear-gradient(#cf0922 33%, #fff 33%, #fff 66%, #000 0);
     font-size: 22px;
-    position:fixed;
+    
     width: 100%;
     top: 0;
     left: 0;
@@ -117,6 +117,11 @@ footer {
 @media (max-width: 768px) {
     .navbar {
         flex-direction: row;
+        width: 100%;
+        gap: 10px;
+    }
+    .service-item {
+        padding: 10px; /* Less padding on smaller screen */
     }
     main {
         width: 95%;
