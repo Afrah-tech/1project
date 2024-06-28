@@ -79,11 +79,11 @@ section img {
     width: 100%;
     height: auto;
     border-radius: 8px;
-    max-width: 500px;
+    max-width:60vw;
 }
 
 section p {
-    width: 500px;
+    width: 60vw;
     margin: 20px 0;
     padding: 0 10px;
     text-align: left;
@@ -123,6 +123,11 @@ footer {
     main {
         width: 70vw;
         margin-top: 60px;
+    
+    }
+    section p,
+    section img{
+        width: 70vw;
     }
 }
 
@@ -135,7 +140,6 @@ footer {
     }
     main {
         width: 100%;
-        padding: 30px;
         margin-top: 60px;
     }
     section img {
@@ -148,8 +152,6 @@ footer {
 
 #services {
     text-align: center;
-    margin-top:  px;
-    /* Adjust for fixed header */
     padding: 20px;
 }
 
