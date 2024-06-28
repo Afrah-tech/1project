@@ -58,13 +58,12 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 1500px;
-    max-width: 1200px;
     margin: 100px auto 0 auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    width: 60vw;
 }
 
 section {
@@ -74,7 +73,6 @@ section {
     text-align: center;
     margin-bottom: 40px;
     width: 100%;
-    max-width: 600px;
 }
 
 section img {
@@ -85,8 +83,7 @@ section img {
 }
 
 section p {
-    width: 100%;
-    max-width: 500px;
+    width: 500px;
     margin: 20px 0;
     padding: 0 10px;
     text-align: left;
@@ -124,7 +121,7 @@ footer {
         padding: 5px; /* Less padding on smaller screen */
     }
     main {
-        width: 95%;
+        width: 70vw;
         margin-top: 60px;
     }
 }
@@ -290,7 +287,8 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 190px;
+    gap: 80px 190px;
+
 }
 
 .service-item {
