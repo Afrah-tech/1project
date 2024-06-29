@@ -1,0 +1,6 @@
+![](READMEimages/indexchecker.png)
+![](READMEimages/contactuspagechecker.png)
+![](READMEimages/aboutpagecheckebefore.png)
+![](READMEimages/aboutpageaftercheck.png)
+![](READMEimages/404pagecheckerberfore.png)
+![](READMEimages/404pagecheckerafter.png)
