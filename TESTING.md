@@ -1,6 +1,9 @@
-![](READMEimages/indexchecker.png)
-![](READMEimages/contactuspagechecker.png)
-![](READMEimages/aboutpagecheckebefore.png)
-![](READMEimages/aboutpageaftercheck.png)
-![](READMEimages/404pagecheckerberfore.png)
-![](READMEimages/404pagecheckerafter.png)
+![index ](READMEimages/indexchecker.png)
+![contact us](READMEimages/contactuspagechecker.png)
+
+![about page](READMEimages/aboutpageaftercheck.png)
+
+![404page ](READMEimages/404pagecheckerafter.png)
+
+
+![lighthouse text ](READMEimages/lighthouse.png)
