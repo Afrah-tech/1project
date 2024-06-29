@@ -51,7 +51,28 @@ Fixed and Responsive: Ensures constant accessibility across all devices.
 Thematic Style: Reflects Yemeni cultural elements for enhanced engagement.
 Style and Images:
 Aesthetic Choices: Employs a color palette inspired by Yemeni art and landscapes. Images are optimized for responsiveness and speed.
-![Homepage](/workspace/1project/READMEimages/homepage5.png.png)
+
+### About page 
+![ part one  ](READMEimages/aboutpage1.png)
+
+show the footer for the contect us page 
+![ Part two ](READMEimages/aboutpage2.png)
+
+
+
+### Contact us page 
+Box for sending message and make it easy to contact us . 
+![ Message us box  ](READMEimages/contactusmessagebox.png)
+
+Contain the soical media icon that linked to the soical media platofrm to make it easy to access . 
+
+![ Message us box  ](READMEimages/contactussoicalmedia.png)
+
+### 404 page 
+
+In case the page is not founded so this page will be designed to make the user understand it . 
+
+![ 404 erro page  ](READMEimages/404page.png)
 
 - Technical Aspects
 Responsiveness and Accessibility: Built with HTML5 and CSS3, using Flexbox and CSS Grid for layout adjustments. The site is accessible and responsive across all modern devices.
@@ -86,7 +107,7 @@ I used [htmlcolorcodes.com](https://htmlcolorcodes.com/) to generate my colour p
 
 
 
-```
+
 
 ### Typography
 
@@ -108,7 +129,6 @@ I used [htmlcolorcodes.com](https://htmlcolorcodes.com/) to generate my colour p
 
 
 
-
 - [![Markdown Builder](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://tim.2bn.dev/markdown-builder) used to generate README and TESTING templates.
 - [![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com) used for secure online code storage.
@@ -126,96 +146,39 @@ I used [htmlcolorcodes.com](https://htmlcolorcodes.com/) to generate my colour p
  
 
 ## Testing
-- using ![source ](https://validator.w3.org/)
-> [!NOTE]  
-> For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
-## Deployment
+![index test ](READMEimages/indexchecker.png)
 
-The site was deployed to GitHub Pages. The steps to deploy are as follows:
-
-- In the [GitHub repository](https://github.com/Afrah-tech/1project), navigate to the Settings tab 
-- From the source section drop-down menu, select the **Main** Branch, then click "Save".
-- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-The live link can be found [here](https://afrah-tech.github.io/1project)
-
-### Local Deployment
-
-This project can be cloned or forked in order to make a local copy on your own system.
-
-#### Cloning
-
-You can clone the repository by following these steps:
-
-1. Go to the [GitHub repository](https://github.com/Afrah-tech/1project) 
-2. Locate the Code button above the list of files and click it 
-3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
-4. Open Git Bash or Terminal
-5. Change the current working directory to the one where you want the cloned directory
-6. In your IDE Terminal, type the following command to clone my repository:
-	- `git clone https://github.com/Afrah-tech/1project.git`
-7. Press Enter to create your local clone.
-
-Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Afrah-tech/1project)
-
-Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
-A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
-
-#### Forking
-
-By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
-You can fork this repository by using the following steps:
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Afrah-tech/1project)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
-
-### Local VS Deployment
+![](READMEimages/aboutpageaftercheck.png)
 
 
+![contact us test ](READMEimages/contactuspagechecker.png)
 
 
-
-### Chatgpt ![source](https://openai.com/index/chatgpt/) ,
-###  Google search  
-###  w3school ![source](https://www.w3schools.com/), 
+![lighthouse text ](READMEimages/lighthouse.png)
 
 
+### Unfixed Bugs
 
+No bugs founded 
+
+
+### Sources 
 
 
 | Source | Location | Notes |
 | --- | --- | --- |
+| [Chatgpt](https://openai.com/index/chatgpt/) | README , TESTING and CSS and Html | tool to help generate the Markdown files |
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
-| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
-| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | navbar | responsive HTML/CSS/ navbar |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page,Home ,About | |
+| [Jigsaw](https://jigsaw.w3.org/css-validator/) | TESTING | "Test the validation for css code | 
 
-
-
-
-
-| Source | Location | Type | Notes |
-| --- | --- | --- | --- |
 
 
 ### Acknowledgements
 
 
+I'd like to extend my gratitude to my mentor, [Tim Nelson](https://github.com/TravelTimN), and the [Code Institute](https://codeinstitute.net) tutor team for their invaluable support and assistance. Thanks also to the [Code Institute Slack community](https://code-institute-room.slack.com) for their encouragement, my partner for their unwavering belief in my abilities, and my employer for supporting my career development in software development.
 
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for his support throughout the development of this project.
-- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+---
